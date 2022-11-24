@@ -5,3 +5,5 @@
 /obj/Release/net7.0
 /obj/Debug/net7.0
 /.vs
+/bin/Debug/net7.0
+/bin/Release/net7.0
